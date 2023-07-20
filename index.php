@@ -10,7 +10,12 @@
      <script src="js/Jquery/Jquery.min.js"></script>
 	 <script src="js/owlcarousel/owl.carousel.min.js"></script>
 
-   
+	 <script src="js/dungchung.js"></script>
+	 <script src="js/classes.js"></script>
+	 <script src="js/trangchu.js"></script>
+	 <script src="js/chitietsanpham.js"></script>
+	 
+
 	<link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/style.css">
   
@@ -24,6 +29,10 @@
   <link rel="stylesheet" href="css/gioithieu.css">
   <link rel="stylesheet" href="css/baohanh.css ">
   <link rel="stylesheet" href="css/lienhe.css">
+  <link rel="stylesheet" href="css/chitietsanpham.css">
+  <link rel="stylesheet" href="css/home_products.css">
+  
+
   <link rel="shortcut icon" href="img/favicon.ico" />
   
   
@@ -53,7 +62,7 @@
 				</div>
 			</div>
 	
-	
+			<script>addContainTaiKhoan();</script>
 		
 </body>
 </html>
